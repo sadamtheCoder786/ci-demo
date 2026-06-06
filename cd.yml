@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/myapp
+  IMAGE_NAME: ${{ secrets.sadam66 }}/myapp
 
 jobs:
 
